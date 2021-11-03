@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23009A4E&width=450&lines=Hola%F0%9F%91%8B%2C+Bienvenidos+a+Equipo+de+TI)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&width=650&lines=Hola%F0%9F%91%8B%2C+Bienvenido++al+Equipo+de+TI)](https://git.io/typing-svg)
 
 - 🔭 Actualmente estamos trabajando en un proyecto increible.
 - 👯 Estams buscando colaboradores en 🅰️ Angular & ⚛️ React JS.
