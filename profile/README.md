@@ -7,6 +7,8 @@
 
 [![Node JS](https://img.shields.io/badge/Node.js-3c873a.svg?style=for-the-badge&logo=Node.js&logoColor=white)](#)
 [![Next Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+[![Mongo DB](https://img.shields.io/badge/MongoDB-589636.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](#)
+[![Mysql](https://img.shields.io/badge/mysql-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/-React.js-61DBFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Angular Badge](https://img.shields.io/badge/-Angular-d4173b?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](#)
