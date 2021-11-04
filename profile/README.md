@@ -17,6 +17,8 @@
 [![PHP Badge](https://img.shields.io/badge/-php-8892BF?style=for-the-badge&logo=php&logoColor=white)](#)
 [![C# Badge](https://img.shields.io/badge/-csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-f1502f?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![AdobeXD](https://img.shields.io/badge/-adobexd-470137?style=for-the-badge&logo=adobexd&logoColor=white)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-css-2965f1?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white)](#)
