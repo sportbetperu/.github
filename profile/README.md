@@ -3,8 +3,7 @@
 - 🔭 Actualmente estamos trabajando en un proyecto increible.
 - 👯 Estams buscando colaboradores en 🅰️ Angular & ⚛️ React JS.
 
-## Las Tecnologías con las que trabajamos
-
+## Las Tecnologías y Herramientas con las que trabajamos
 [![Node JS](https://img.shields.io/badge/Node.js-3c873a.svg?style=for-the-badge&logo=Node.js&logoColor=white)](#)
 [![Next Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
 [![Mongo DB](https://img.shields.io/badge/MongoDB-589636.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](#)
@@ -17,6 +16,10 @@
 [![PHP Badge](https://img.shields.io/badge/-php-8892BF?style=for-the-badge&logo=php&logoColor=white)](#)
 [![C# Badge](https://img.shields.io/badge/-csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-f1502f?style=for-the-badge&logo=git&logoColor=white)](#)
+[![VSCode](https://img.shields.io/badge/-vscode-0080CE?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/-linux-504746?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-7C007C?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![AdobeXD](https://img.shields.io/badge/-adobexd-470137?style=for-the-badge&logo=adobexd&logoColor=white)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&logo=html5&logoColor=white)](#)
