@@ -23,7 +23,7 @@
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0d6efd?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![Wordpress Badge](https://img.shields.io/badge/-Wordpress-0d6efd?style=for-the-badge&logo=wordpress&logoColor=white)](#)
 
-## Mis Redes Sociales
+## Nuestras Redes Sociales
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sportbetperu)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sportbetperu)
@@ -32,5 +32,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sportbetperu/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sportbetperu/)
 
-## Visitas al perfil 
+## Visitas a nuestro perfil 
 ![VisitorCount](https://profile-counter.glitch.me/sportbetperu/count.svg)
