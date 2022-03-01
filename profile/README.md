@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2336BCF7&size=30&vCenter=true&width=700&lines="Si+lo+puedes+imaginar%2C+lo+puedes+programar.")](https://git.io/typing-svg)
 
 - 🔭 Actualmente estamos trabajando en un proyecto increible.
-- 👯 Estams buscando colaboradores en 🅰️ Angular & ⚛️ React JS.
+- 👯 Estamos buscando colaboradores en 🅰️ Angular & ⚛️ React JS.
 
 ## Las Tecnologías y Herramientas con las que trabajamos
 [![Node JS](https://img.shields.io/badge/Node.js-3c873a.svg?style=for-the-badge&logo=Node.js&logoColor=white)](#)
