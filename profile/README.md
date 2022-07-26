@@ -1,6 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2336BCF7&size=30&vCenter=true&width=700&lines="Si+lo+puedes+imaginar%2C+lo+puedes+programar.")](https://git.io/typing-svg)
-
 - 🔭 Actualmente estamos trabajando en un proyecto increible.
 - 👯 Estamos buscando colaboradores en 🅰️ Angular & ⚛️ React JS.
 
